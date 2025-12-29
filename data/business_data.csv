@@ -1,0 +1,8 @@
+customer_id,region,sales,category
+101,East,12000,A
+102,West,15000,B
+103,East,10000,A
+104,North,18000,C
+105,South,13000,B
+106,West,16000,C
+107,South,9000,A
