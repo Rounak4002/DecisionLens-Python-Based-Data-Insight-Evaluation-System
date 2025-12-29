@@ -1,0 +1,8 @@
+DecisionLens Analysis Report
+
+- Dataset cleaned by removing duplicates and null values
+- Exploratory analysis performed to understand sales distribution
+- Region-wise and category-wise sales evaluated
+- High-performing records identified using threshold filtering
+
+This project demonstrates foundational data analysis skills using Python and SQL.
